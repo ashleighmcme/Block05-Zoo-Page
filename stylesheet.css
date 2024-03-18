@@ -13,9 +13,20 @@ h2, h5 {
   }
 p {
     text-align: center;
+    color: #ffffff;
 }
 a {
     display: block;
     text-align: center;
     margin: 0 auto;
+    color: #ffffff;
   }
+  body {
+    color: #ffffff;
+    background-image: url('./MediaAssets/background.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    backdrop-filter: blur(5px);
+  }
+  
